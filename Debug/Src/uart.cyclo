@@ -1,0 +1,6 @@
+C:/Users/rdele/OneDrive/Documents/STM32-BareMetal-Workspace/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/uart.c:22:6:uart2_rxtx_init	1
+../Src/uart.c:65:6:uart2_read	2
+../Src/uart.c:73:6:uart2_write	3
+../Src/uart.c:83:13:uart_set_baudrate	1
+../Src/uart.c:88:17:compute_uart_bd	1

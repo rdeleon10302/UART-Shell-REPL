@@ -1,0 +1,9 @@
+C:/Users/rdele/OneDrive/Documents/STM32-BareMetal-Workspace/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+C:/Users/rdele/OneDrive/Documents/STM32-BareMetal-Workspace/CMSIS/Include/core_cm4.h:1724:22:__NVIC_DisableIRQ	2
+../Src/main.c:31:5:main	4
+../Src/main.c:74:6:USART2_IRQHandler	2
+../Src/main.c:85:6:process_command	4
+../Src/main.c:111:6:set_pin_handler	4
+../Src/main.c:140:6:read_pin_handler	2
+../Src/main.c:154:6:GPIO_WritePin	2
+../Src/main.c:162:5:GPIO_ReadPin	1
